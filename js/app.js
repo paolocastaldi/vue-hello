@@ -1,8 +1,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            message: 'Hello Vue!',
-            image: "./img/batman-keaton-2023"
+            message: 'Hello Vue! I am Batman!',
+            image: "./img/batman.jpg"
         }
     }
 });
